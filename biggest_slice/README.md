@@ -1,0 +1,2 @@
+# Coding Challenge
+This is a coding challenge I received during one of my interviews. I was supposed to find what the biggest slice of a pie was, given an arbitrary number of divisions. I implemented my solution in Python.
